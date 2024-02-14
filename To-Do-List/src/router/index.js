@@ -7,7 +7,7 @@ Vue.use(VueRouter)
 const routes = [{
     path: '/',
     name: 'TodoList',
-    component: TodoList,
+    component: TodoList
 }]
 
 const router = new VueRouter({
